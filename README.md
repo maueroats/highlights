@@ -2,6 +2,12 @@
 
 Highlights of my work on GitHub.
 
+## Teaching
+
+Most of my time is spent teaching computer science in high school.
+
+* [2020-2021 School Year](https://maueroats.github.io/teaching-2020-2021).
+
 ## Racket
 
 A number of small improvements:
