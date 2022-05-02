@@ -2,6 +2,10 @@
 
 Highlights of my work on GitHub.
 
+## Interesting Projects
+
+* [Mastermind in C++](https://github.com/maueroats/Mastermind-CXX). Includes writeup.
+
 ## Teaching
 
 Most of my time is spent teaching computer science in high school.
